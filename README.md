@@ -17,7 +17,7 @@ Here's the Schematic, made in KiCAD,
 
 # PCB
 Here's the PCB I made in KiCAD. I selected my final components after routing, not berfore!
-Not a good idea :[
+Not a good idea :sob:
 ![PCB in editor view](image-5.png)
 ![PCB Render](image-6.png)
 # CAD
