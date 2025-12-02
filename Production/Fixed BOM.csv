@@ -15,4 +15,18 @@ Battery Connector tariff,,1,,$0.15,$0.15,,
 4.7uF Capacitor tariff,,1,,$0.01,$0.01,,
 Male header pins tariff,,1,,$0.04,$0.04,,
 2.32K Ohm Resistor tariff,,1,,$0.02,$0.02,,
-JLC PCB Payment fee,,1,,$0.50,$0.50,,
+JLC PCB Payment fee,,1,,$0.50,$0.50,,JLC PCB Payment fee,,1,,$0.50,$0.50,,
+=======
+Part,Part #,Quantity,Link,Price,Total Price,Total Cost
+Charging IC,MCP73831T-3ACI/OT,1,https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-3ACI-OT/964307,$0.76,$0.76,26.07
+Battery Connector,9155003852006,1,https://www.digikey.com/en/products/detail/kyocera-avx/009155003852006/6009965,$0.88,$0.88,
+SMD LED Green,SML-D13M8WT86,1,https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D13M8WT86/4004597,$0.19,$0.19,
+470 Ohm Resistor,CRGCQ0603F470R,1,https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0603F470R/8576286?_gl=1*13ap4ai*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA86_JBhAIEiwA4i9Ju8ZV9FJFxGPHLhVRJKOhtEGS-_fr6EKW7F9qtPxBwK2ubNHbfs4TnBoC9RAQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLli3NT63EzAA6TB6cO9BOwVC6,$0.10,$0.10,
+USB C female header,10155435-00011LF,1,https://www.digikey.com/en/products/detail/amphenol-cs-fci/10155435-00011LF/11602060?_gl=1*p1mhlu*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA86_JBhAIEiwA4i9Ju8ZV9FJFxGPHLhVRJKOhtEGS-_fr6EKW7F9qtPxBwK2ubNHbfs4TnBoC9RAQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLli3NT63EzAA6TB6cO9BOwVC6,$0.78,$0.78,
+4.7uF Capacitor,CL10A475KP8NNNC,2,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702?_gl=1*d155qr*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA86_JBhAIEiwA4i9Ju8ZV9FJFxGPHLhVRJKOhtEGS-_fr6EKW7F9qtPxBwK2ubNHbfs4TnBoC9RAQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLli3NT63EzAA6TB6cO9BOwVC6,$,$0.08,
+Male header pins,PH1-16-UA,1,https://www.digikey.com/en/products/detail/adam-tech/PH1-16-UA/9830344?_gl=1*ucu4rh*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA86_JBhAIEiwA4i9Ju8ZV9FJFxGPHLhVRJKOhtEGS-_fr6EKW7F9qtPxBwK2ubNHbfs4TnBoC9RAQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLli3NT63EzAA6TB6cO9BOwVC6,$0.21,$0.21,
+2.32k Ohm Resistor,RMCF0603FT2K32,1,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT2K32/1713725?_gl=1*28hw4b*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA86_JBhAIEiwA4i9Ju8ZV9FJFxGPHLhVRJKOhtEGS-_fr6EKW7F9qtPxBwK2ubNHbfs4TnBoC9RAQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLli3NT63EzAA6TB6cO9BOwVC6,$0.10,$0.10,
+PCB,,5,https://jlcpcb.com/,,$2.00,
+Digikey Shipping (FedEx Ground),,1,,,$6.99,
+PCB Shipping,,1,,,$3.30,
+>>>>>>> 6092aec8c3edd4339eeb8d06c658d27588efedda
